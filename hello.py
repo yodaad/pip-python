@@ -1,1 +1,1 @@
-print("Hello from this machine!")
+print("Hello from this WSL machine!")
