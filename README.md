@@ -24,6 +24,7 @@ This project is a simple implementation of the classic game "Rock, Paper, Scisso
    ```
    python3 main.py
 ```
+Follow the on-screen instructions to play the game.
 
 # App Project
 
