@@ -12,14 +12,14 @@ This project is a simple implementation of the classic game "Rock, Paper, Scisso
 
 ### Installation
 
-1. **Clone the Repository**
+**Clone the Repository**
 
    ```sh
    git clone <repository_url>
    cd game
 ```
 
-2. **Run the Game**
+**Run the Game**
 
    ```
    python3 main.py
