@@ -28,11 +28,35 @@ Follow the on-screen instructions to play the game.
 
 # App Project
 
+## Description
+
+This project is a simple implementation of a csv reade and graph generator with matplotliba and pandas.
+
+## Getting Started
+
+To set up and run the app locally, follow these steps:
+
+**Clone the Repository**
+
 ```sh
-git clone
+git clone <repository_url>
 cd app
+```
+**Set Up Virtual Enviroment**
+
+```sh
 python3 -m venv env
 source env/bin/activate
+```
+
+**Install Dependencies**
+
+```sh
 pip3 install -r requirements.txt
+```
+
+**4. Run the App**
+
+```sh
 python3 main.py
 ```
