@@ -13,3 +13,4 @@ def get_categories():
     
     for category in categories:
         print(category["name"])
+        print(category["image"])
